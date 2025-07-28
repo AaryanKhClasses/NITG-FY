@@ -1,0 +1,28 @@
+Q1) Write a C program to print all the natural numbers in reverse using while loop.
+Q2) Print all the even numbers between 1 to 100 using while loop.
+Q3) Write a C program to count the number of digits in a number.
+Q4) Write a C program to find LCM of 2 given numbers.
+Q5a) Pattern:
+   *
+  * *
+ *   *
+*     *
+*******
+Q5b) Pattern:
+1
+0 1
+0 1 0
+1 0 1 0
+1 0 1 0 1
+Q5c) Pattern:
+1       1
+ 2     2
+  3   3
+   4 4
+    5
+   4 4
+  3	  3
+ 2     2
+1       1
+
+Q6) Write a C Program to calculate product of digits of a number.
